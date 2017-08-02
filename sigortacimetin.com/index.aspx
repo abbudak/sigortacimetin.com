@@ -13,7 +13,7 @@
     <title>Meti Sigorta İskenderun DASK, Trafik Sigortası, Kasko, Yangın, Deprem, Hırsızlık Sigortası</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" /> 
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
